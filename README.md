@@ -6,3 +6,6 @@
 <a href="https://www.youtube.com/watch?v=dVE_aSQx1Cw" title="coś miłego"> 
 </a>
 <h1>Pozdrawiam</h1>
+<a href="http://google.com" target="_blank" title="Wyszukiwarka internetowa Google">
+  Google.com
+</a>
