@@ -5,3 +5,8 @@ body {
 svg {
   fill: yellowgreen;
 }
+
+use {
+  width: 100px;
+  height: 100px;
+}
