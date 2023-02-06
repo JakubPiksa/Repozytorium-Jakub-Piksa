@@ -1,12 +1,3 @@
-body {
-  background-color: violet;
-}
-
 svg {
   fill: yellowgreen;
-}
-
-use {
-  width: 100px;
-  height: 100px;
 }
